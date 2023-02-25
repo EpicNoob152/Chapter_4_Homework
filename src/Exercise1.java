@@ -10,17 +10,19 @@
 import java.util.Scanner;
 public class Exercise1 {
     public static void main(String[] args) {
-
+        //This code allow users input
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a prime number:  ");
         int number = input.nextInt();
         int i;
+
+        //Loop and if-else statement to determine if this is a prime number or not
         for (i = 2; i <= number / 2; ++i) {
             if (number % i == 0) {
                 break;
             }
 
-        }
+        } //Thi\s shows the output
         if (number % i == 0) {
             System.out.println(number + " is not a prime number");
         } else {

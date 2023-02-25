@@ -15,7 +15,7 @@ public class Exercise2 {
         int grades = 1;
         int i = 0;
         int count = 0;
-
+        //This is how to input the grades (9999 stops inputting the code) as well as the loop let you keep putting inputs
         while(grades != 9999){
             System.out.println("Enter in your grades (Type the numbers 9999 to stop):  ");
             grades = input.nextInt();
@@ -27,7 +27,7 @@ public class Exercise2 {
                 count += grades;
             }
         }
-
+        //This is the mean calculation and the output of the mean
         int mean = count / i;
         System.out.println("your grade is: " + mean);
     }
