@@ -1,0 +1,9 @@
+Exercise 1:  Nicely done but your program has a logic error. Please make sure
+revise your program to fix the logic error.
+1 is not a prime number.
+
+
+Exercise 2: Nicely done but your program does not generate the average correctly
+.Type of the average is double. Please revise your program to fix the logic error.
+
+Exercise 3: Nice work.  
