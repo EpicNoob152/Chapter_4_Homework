@@ -28,7 +28,7 @@ public class Exercise6 {
             value = i;
         }
     // This outputs the sum
-        System.out.println("Sum of digits added together is: " +  sum);
+        System.out.println("Sum of digits added together is: " +  sum);00
 
     }
 
