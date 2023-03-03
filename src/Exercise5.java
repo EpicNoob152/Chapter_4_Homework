@@ -6,7 +6,7 @@ public class Exercise5 {
         System.out.println("Enter a number: ");
         int number = input.nextInt();
         int product = 0;
-        i = 0;
+        int i = 0;
         while(i <= number ){
             i++;
             product *= i;
