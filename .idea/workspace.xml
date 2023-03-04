@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08bfb10-410d-4841-bde5-7f2fc42d9741" name="Changes" comment="working on some issues">
-      <change afterPath="$PROJECT_DIR$/src/Exercise7.java" afterDir="false" />
+    <list default="true" id="c08bfb10-410d-4841-bde5-7f2fc42d9741" name="Changes" comment="doing more problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/epicnoob152/IdeaProjects/Chapter 3 Homework&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/epicnoob152/IdeaProjects/ITEC_2140"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,12 +55,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677214818371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done">
+      <created>1677875509519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875509519</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done">
+      <created>1677875772945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875772945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="doing more problems">
+      <created>1677875838143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677875838143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Did Problem 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did Problem 1" />
+    <MESSAGE value="Done" />
+    <MESSAGE value="doing more problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="doing more problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -75,11 +97,6 @@
           <url>file://$PROJECT_DIR$/src/Exercise6.java</url>
           <line>16</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exercise5.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
