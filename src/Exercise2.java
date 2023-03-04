@@ -12,13 +12,13 @@ public class Exercise2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int grades = 1;
+        double grades = 1.0;
         int i = 0;
-        int count = 0;
+        double count = 0;
         //This is how to input the grades (9999 stops inputting the code) as well as the loop let you keep putting inputs
         while(grades != 9999){
             System.out.println("Enter in your grades (Type the numbers 9999 to stop):  ");
-            grades = input.nextInt();
+            grades = input.nextDouble();
             if (grades == 9999){
                 break;
             }
@@ -28,7 +28,7 @@ public class Exercise2 {
             }
         }
         //This is the mean calculation and the output of the mean
-        int mean = count / i;
+        double mean = count / i;
         System.out.println("your grade is: " + mean);
     }
 }

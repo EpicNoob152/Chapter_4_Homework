@@ -23,7 +23,7 @@ public class Exercise1 {
             }
 
         } //Thi\s shows the output
-        if (number % i == 0) {
+        if (number % i == 0 || number == 1) {
             System.out.println(number + " is not a prime number");
         } else {
             System.out.println(number + " is a prime number");

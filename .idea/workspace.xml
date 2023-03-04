@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08bfb10-410d-4841-bde5-7f2fc42d9741" name="Changes" comment="did problem 8">
-      <change afterPath="$PROJECT_DIR$/src/Exercise10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise9.java" afterDir="false" />
+    <list default="true" id="c08bfb10-410d-4841-bde5-7f2fc42d9741" name="Changes" comment="done with all problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677893185586</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="done with all problems">
+      <created>1677897254587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677897254587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,7 +107,8 @@
     <MESSAGE value="doing more problems" />
     <MESSAGE value="did problem 7" />
     <MESSAGE value="did problem 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="did problem 8" />
+    <MESSAGE value="done with all problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with all problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -114,6 +122,11 @@
           <url>file://$PROJECT_DIR$/src/Exercise6.java</url>
           <line>16</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
