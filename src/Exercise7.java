@@ -3,7 +3,7 @@
  * @author: Jaylan Igbinoba
  * @Course: ITEC 2140 Spring 2023
  * @verison: 1.0
- * @Written: February 28, 2023
+ * @Written: March 14, 2023
  * @Description: This Code tries to get the user to input 2 strings. Then those Strings will be checked to see which string is longer
  * and which string comes 1st in alphabetical order. After this, it will combine the 2 Strings.
  */
